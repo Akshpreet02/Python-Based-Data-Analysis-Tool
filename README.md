@@ -8,6 +8,7 @@ This project comprises a terminal-based data analysis tool that leverages the nu
 • Plotting charts based on selected data The working of the application is as follows:
 
 - Data Selection
+
 ❖ We first import the data stored in csv files into pandas data frames.
 
 ❖ The user is then prompted to either select all the data rows or provide a value and a column name to search for the matching entries. This search is performed using the ‘where’ method of the numpy library.
